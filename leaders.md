@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Rico Komenda](mailto:[rico.komenda@owasp.org|mailto:rico.komenda@owasp.org])
+* [](mailto:[rico.komenda@owasp.org|mailto:rico.komenda@owasp.org])
+* [Javan Rasokat](mailto:[rico.komenda@owasp.org|mailto:rico.komenda@owasp.org])
